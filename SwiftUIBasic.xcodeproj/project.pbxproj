@@ -16,6 +16,7 @@
 		E343FDBC2B878F6500AB1FA1 /* ColorBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDBB2B878F6500AB1FA1 /* ColorBasic.swift */; };
 		E343FDE12BA732F700AB1FA1 /* GradientBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDE02BA732F700AB1FA1 /* GradientBasic.swift */; };
 		E343FDE32BA734CE00AB1FA1 /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDE22BA734CE00AB1FA1 /* IconBasic.swift */; };
+		E343FDE52BA7363900AB1FA1 /* ImageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDE42BA7363900AB1FA1 /* ImageBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E343FDBB2B878F6500AB1FA1 /* ColorBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBasic.swift; sourceTree = "<group>"; };
 		E343FDE02BA732F700AB1FA1 /* GradientBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBasic.swift; sourceTree = "<group>"; };
 		E343FDE22BA734CE00AB1FA1 /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
+		E343FDE42BA7363900AB1FA1 /* ImageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				E343FDBB2B878F6500AB1FA1 /* ColorBasic.swift */,
 				E343FDE02BA732F700AB1FA1 /* GradientBasic.swift */,
 				E343FDE22BA734CE00AB1FA1 /* IconBasic.swift */,
+				E343FDE42BA7363900AB1FA1 /* ImageBasic.swift */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
 			);
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E343FDE52BA7363900AB1FA1 /* ImageBasic.swift in Sources */,
 				E343FDE12BA732F700AB1FA1 /* GradientBasic.swift in Sources */,
 				E343FDE32BA734CE00AB1FA1 /* IconBasic.swift in Sources */,
 				E343FDB82B839FBB00AB1FA1 /* TextBasic.swift in Sources */,
