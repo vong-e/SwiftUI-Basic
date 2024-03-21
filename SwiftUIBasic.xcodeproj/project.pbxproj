@@ -19,6 +19,7 @@
 		E343FDE52BA7363900AB1FA1 /* ImageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDE42BA7363900AB1FA1 /* ImageBasic.swift */; };
 		E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDE62BA7377000AB1FA1 /* FrameBasic.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
+		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		E343FDE42BA7363900AB1FA1 /* ImageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBasic.swift; sourceTree = "<group>"; };
 		E343FDE62BA7377000AB1FA1 /* FrameBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBasic.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
+		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				E343FDE42BA7363900AB1FA1 /* ImageBasic.swift */,
 				E343FDE62BA7377000AB1FA1 /* FrameBasic.swift */,
 				E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */,
+				E3C980CC2BAC8301009B9840 /* StackBasic.swift */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
 			);
@@ -171,6 +174,7 @@
 				E343FDBC2B878F6500AB1FA1 /* ColorBasic.swift in Sources */,
 				E343FDAA2B839E4400AB1FA1 /* SwiftUIBasicApp.swift in Sources */,
 				E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */,
+				E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
