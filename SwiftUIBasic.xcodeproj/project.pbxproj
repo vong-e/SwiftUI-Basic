@@ -21,6 +21,7 @@
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
+		E3C980D12BADC9B0009B9840 /* SpacerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D02BADC9B0009B9840 /* SpacerBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
+		E3C980D02BADC9B0009B9840 /* SpacerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */,
 				E3C980CC2BAC8301009B9840 /* StackBasic.swift */,
 				E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */,
+				E3C980D02BADC9B0009B9840 /* SpacerBasic.swift */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
 			);
@@ -176,6 +179,7 @@
 				E343FDBA2B8788D100AB1FA1 /* ShapeBasic.swift in Sources */,
 				E343FDBC2B878F6500AB1FA1 /* ColorBasic.swift in Sources */,
 				E343FDAA2B839E4400AB1FA1 /* SwiftUIBasicApp.swift in Sources */,
+				E3C980D12BADC9B0009B9840 /* SpacerBasic.swift in Sources */,
 				E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */,
 				E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */,
 				E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */,
