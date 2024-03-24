@@ -26,6 +26,7 @@
 		E3C980D52BADCDBF009B9840 /* InitEnumBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D42BADCDBF009B9840 /* InitEnumBasic.swift */; };
 		E3C980D72BADCF54009B9840 /* ForEachLoopBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D62BADCF54009B9840 /* ForEachLoopBasic.swift */; };
 		E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D82BB07608009B9840 /* LazyGridBasic.swift */; };
+		E3C980DB2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980DA2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		E3C980D42BADCDBF009B9840 /* InitEnumBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumBasic.swift; sourceTree = "<group>"; };
 		E3C980D62BADCF54009B9840 /* ForEachLoopBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopBasic.swift; sourceTree = "<group>"; };
 		E3C980D82BB07608009B9840 /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
+		E3C980DA2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreSafeAreaBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				E3C980D42BADCDBF009B9840 /* InitEnumBasic.swift */,
 				E3C980D62BADCF54009B9840 /* ForEachLoopBasic.swift */,
 				E3C980D82BB07608009B9840 /* LazyGridBasic.swift */,
+				E3C980DA2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
 			);
@@ -192,6 +195,7 @@
 				E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */,
 				E343FDAC2B839E4400AB1FA1 /* ContentView.swift in Sources */,
 				E343FDBA2B8788D100AB1FA1 /* ShapeBasic.swift in Sources */,
+				E3C980DB2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift in Sources */,
 				E343FDBC2B878F6500AB1FA1 /* ColorBasic.swift in Sources */,
 				E343FDAA2B839E4400AB1FA1 /* SwiftUIBasicApp.swift in Sources */,
 				E3C980D12BADC9B0009B9840 /* SpacerBasic.swift in Sources */,
