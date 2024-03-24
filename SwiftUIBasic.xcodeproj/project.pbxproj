@@ -25,6 +25,7 @@
 		E3C980D32BADCADA009B9840 /* ScrollViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D22BADCADA009B9840 /* ScrollViewBasic.swift */; };
 		E3C980D52BADCDBF009B9840 /* InitEnumBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D42BADCDBF009B9840 /* InitEnumBasic.swift */; };
 		E3C980D72BADCF54009B9840 /* ForEachLoopBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D62BADCF54009B9840 /* ForEachLoopBasic.swift */; };
+		E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D82BB07608009B9840 /* LazyGridBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		E3C980D22BADCADA009B9840 /* ScrollViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasic.swift; sourceTree = "<group>"; };
 		E3C980D42BADCDBF009B9840 /* InitEnumBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumBasic.swift; sourceTree = "<group>"; };
 		E3C980D62BADCF54009B9840 /* ForEachLoopBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopBasic.swift; sourceTree = "<group>"; };
+		E3C980D82BB07608009B9840 /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				E3C980D22BADCADA009B9840 /* ScrollViewBasic.swift */,
 				E3C980D42BADCDBF009B9840 /* InitEnumBasic.swift */,
 				E3C980D62BADCF54009B9840 /* ForEachLoopBasic.swift */,
+				E3C980D82BB07608009B9840 /* LazyGridBasic.swift */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
 			);
@@ -182,6 +185,7 @@
 				E3C980D52BADCDBF009B9840 /* InitEnumBasic.swift in Sources */,
 				E343FDE52BA7363900AB1FA1 /* ImageBasic.swift in Sources */,
 				E343FDE12BA732F700AB1FA1 /* GradientBasic.swift in Sources */,
+				E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */,
 				E343FDE32BA734CE00AB1FA1 /* IconBasic.swift in Sources */,
 				E343FDB82B839FBB00AB1FA1 /* TextBasic.swift in Sources */,
 				E3C980D72BADCF54009B9840 /* ForEachLoopBasic.swift in Sources */,
