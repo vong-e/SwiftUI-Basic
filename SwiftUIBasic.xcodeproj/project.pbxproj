@@ -28,6 +28,7 @@
 		E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980D82BB07608009B9840 /* LazyGridBasic.swift */; };
 		E3C980DB2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980DA2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift */; };
 		E3C980DD2BB07AE6009B9840 /* ButtonBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980DC2BB07AE6009B9840 /* ButtonBasic.swift */; };
+		E3C980DF2BB1D389009B9840 /* StateBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980DE2BB1D389009B9840 /* StateBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		E3C980D82BB07608009B9840 /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 		E3C980DA2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreSafeAreaBasic.swift; sourceTree = "<group>"; };
 		E3C980DC2BB07AE6009B9840 /* ButtonBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBasic.swift; sourceTree = "<group>"; };
+		E3C980DE2BB1D389009B9840 /* StateBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E3C980D82BB07608009B9840 /* LazyGridBasic.swift */,
 				E3C980DA2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift */,
 				E3C980DC2BB07AE6009B9840 /* ButtonBasic.swift */,
+				E3C980DE2BB1D389009B9840 /* StateBasic.swift */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
 			);
@@ -206,6 +209,7 @@
 				E3C980D32BADCADA009B9840 /* ScrollViewBasic.swift in Sources */,
 				E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */,
 				E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */,
+				E3C980DF2BB1D389009B9840 /* StateBasic.swift in Sources */,
 				E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
