@@ -34,6 +34,7 @@
 		E3C980E62BB1D617009B9840 /* ItemBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980E52BB1D617009B9840 /* ItemBasic.swift */; };
 		E3C980E82BB980ED009B9840 /* BindingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980E72BB980ED009B9840 /* BindingBasic.swift */; };
 		E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980E92BB980FB009B9840 /* BindingChild.swift */; };
+		E3C9811C2BC6EC9C009B9840 /* ConditionalBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C9811B2BC6EC9C009B9840 /* ConditionalBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		E3C980E52BB1D617009B9840 /* ItemBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemBasic.swift; sourceTree = "<group>"; };
 		E3C980E72BB980ED009B9840 /* BindingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBasic.swift; sourceTree = "<group>"; };
 		E3C980E92BB980FB009B9840 /* BindingChild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingChild.swift; sourceTree = "<group>"; };
+		E3C9811B2BC6EC9C009B9840 /* ConditionalBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				E3C980E02BB1D51D009B9840 /* ExtractViewBasic.swift */,
 				E3C980E22BB1D600009B9840 /* ExtractSubViewBasic.swift */,
 				E3C980E72BB980ED009B9840 /* BindingBasic.swift */,
+				E3C9811B2BC6EC9C009B9840 /* ConditionalBasic.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -237,6 +240,7 @@
 				E3C980D32BADCADA009B9840 /* ScrollViewBasic.swift in Sources */,
 				E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */,
 				E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */,
+				E3C9811C2BC6EC9C009B9840 /* ConditionalBasic.swift in Sources */,
 				E3C980DF2BB1D389009B9840 /* StateBasic.swift in Sources */,
 				E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */,
 			);
