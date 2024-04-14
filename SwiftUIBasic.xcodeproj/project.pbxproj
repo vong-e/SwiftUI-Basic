@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E337ACA02BCC1E3B008D17EF /* TernaryBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337AC9F2BCC1E3B008D17EF /* TernaryBasic.swift */; };
 		E337ACA22BCC1F6B008D17EF /* AnimationBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACA12BCC1F6B008D17EF /* AnimationBasic.swift */; };
+		E337ACA42BCC229F008D17EF /* TransitionBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACA32BCC229F008D17EF /* TransitionBasic.swift */; };
 		E343FDAA2B839E4400AB1FA1 /* SwiftUIBasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDA92B839E4400AB1FA1 /* SwiftUIBasicApp.swift */; };
 		E343FDAC2B839E4400AB1FA1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDAB2B839E4400AB1FA1 /* ContentView.swift */; };
 		E343FDAE2B839E4500AB1FA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 /* Begin PBXFileReference section */
 		E337AC9F2BCC1E3B008D17EF /* TernaryBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBasic.swift; sourceTree = "<group>"; };
 		E337ACA12BCC1F6B008D17EF /* AnimationBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBasic.swift; sourceTree = "<group>"; };
+		E337ACA32BCC229F008D17EF /* TransitionBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBasic.swift; sourceTree = "<group>"; };
 		E343FDA62B839E4400AB1FA1 /* SwiftUIBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E343FDA92B839E4400AB1FA1 /* SwiftUIBasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicApp.swift; sourceTree = "<group>"; };
 		E343FDAB2B839E4400AB1FA1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				E3C9811B2BC6EC9C009B9840 /* ConditionalBasic.swift */,
 				E337AC9F2BCC1E3B008D17EF /* TernaryBasic.swift */,
 				E337ACA12BCC1F6B008D17EF /* AnimationBasic.swift */,
+				E337ACA32BCC229F008D17EF /* TransitionBasic.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -229,6 +232,7 @@
 				E3C980E32BB1D600009B9840 /* ExtractSubViewBasic.swift in Sources */,
 				E3C980E62BB1D617009B9840 /* ItemBasic.swift in Sources */,
 				E343FDE12BA732F700AB1FA1 /* GradientBasic.swift in Sources */,
+				E337ACA42BCC229F008D17EF /* TransitionBasic.swift in Sources */,
 				E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */,
 				E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */,
 				E343FDE32BA734CE00AB1FA1 /* IconBasic.swift in Sources */,
