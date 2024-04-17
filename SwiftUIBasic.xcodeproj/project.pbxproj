@@ -12,6 +12,8 @@
 		E337ACA42BCC229F008D17EF /* TransitionBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACA32BCC229F008D17EF /* TransitionBasic.swift */; };
 		E337ACA62BCD712E008D17EF /* SheetBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACA52BCD712E008D17EF /* SheetBasic.swift */; };
 		E337ACA82BCD715D008D17EF /* SheetBasic2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACA72BCD715D008D17EF /* SheetBasic2.swift */; };
+		E337ACAA2BD01560008D17EF /* NavigationBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACA92BD01560008D17EF /* NavigationBasic.swift */; };
+		E337ACAC2BD0156F008D17EF /* SecondNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E337ACAB2BD0156F008D17EF /* SecondNavigationView.swift */; };
 		E343FDAA2B839E4400AB1FA1 /* SwiftUIBasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDA92B839E4400AB1FA1 /* SwiftUIBasicApp.swift */; };
 		E343FDAC2B839E4400AB1FA1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343FDAB2B839E4400AB1FA1 /* ContentView.swift */; };
 		E343FDAE2B839E4500AB1FA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */; };
@@ -48,6 +50,8 @@
 		E337ACA32BCC229F008D17EF /* TransitionBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBasic.swift; sourceTree = "<group>"; };
 		E337ACA52BCD712E008D17EF /* SheetBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBasic.swift; sourceTree = "<group>"; };
 		E337ACA72BCD715D008D17EF /* SheetBasic2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBasic2.swift; sourceTree = "<group>"; };
+		E337ACA92BD01560008D17EF /* NavigationBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBasic.swift; sourceTree = "<group>"; };
+		E337ACAB2BD0156F008D17EF /* SecondNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondNavigationView.swift; sourceTree = "<group>"; };
 		E343FDA62B839E4400AB1FA1 /* SwiftUIBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E343FDA92B839E4400AB1FA1 /* SwiftUIBasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicApp.swift; sourceTree = "<group>"; };
 		E343FDAB2B839E4400AB1FA1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -138,6 +142,8 @@
 				E337ACA32BCC229F008D17EF /* TransitionBasic.swift */,
 				E337ACA52BCD712E008D17EF /* SheetBasic.swift */,
 				E337ACA72BCD715D008D17EF /* SheetBasic2.swift */,
+				E337ACA92BD01560008D17EF /* NavigationBasic.swift */,
+				E337ACAB2BD0156F008D17EF /* SecondNavigationView.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -234,6 +240,7 @@
 			files = (
 				E3C980D52BADCDBF009B9840 /* InitEnumBasic.swift in Sources */,
 				E343FDE52BA7363900AB1FA1 /* ImageBasic.swift in Sources */,
+				E337ACAA2BD01560008D17EF /* NavigationBasic.swift in Sources */,
 				E3C980E82BB980ED009B9840 /* BindingBasic.swift in Sources */,
 				E3C980E32BB1D600009B9840 /* ExtractSubViewBasic.swift in Sources */,
 				E3C980E62BB1D617009B9840 /* ItemBasic.swift in Sources */,
@@ -243,6 +250,7 @@
 				E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */,
 				E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */,
 				E343FDE32BA734CE00AB1FA1 /* IconBasic.swift in Sources */,
+				E337ACAC2BD0156F008D17EF /* SecondNavigationView.swift in Sources */,
 				E343FDB82B839FBB00AB1FA1 /* TextBasic.swift in Sources */,
 				E3C980DD2BB07AE6009B9840 /* ButtonBasic.swift in Sources */,
 				E3C980D72BADCF54009B9840 /* ForEachLoopBasic.swift in Sources */,
