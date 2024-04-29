@@ -31,6 +31,7 @@
 		E35CF8682BDA9E69006E81A0 /* ActionSheetBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8672BDA9E69006E81A0 /* ActionSheetBasic.swift */; };
 		E35CF86A2BDE94A7006E81A0 /* TextFieldBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8692BDE94A7006E81A0 /* TextFieldBasic.swift */; };
 		E35CF86C2BDE98BF006E81A0 /* ToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF86B2BDE98BF006E81A0 /* ToggleBasic.swift */; };
+		E35CF86E2BDFE96A006E81A0 /* PickerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF86D2BDFE96A006E81A0 /* PickerBasic.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
@@ -76,6 +77,7 @@
 		E35CF8672BDA9E69006E81A0 /* ActionSheetBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBasic.swift; sourceTree = "<group>"; };
 		E35CF8692BDE94A7006E81A0 /* TextFieldBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBasic.swift; sourceTree = "<group>"; };
 		E35CF86B2BDE98BF006E81A0 /* ToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBasic.swift; sourceTree = "<group>"; };
+		E35CF86D2BDFE96A006E81A0 /* PickerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBasic.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 				E35CF8672BDA9E69006E81A0 /* ActionSheetBasic.swift */,
 				E35CF8692BDE94A7006E81A0 /* TextFieldBasic.swift */,
 				E35CF86B2BDE98BF006E81A0 /* ToggleBasic.swift */,
+				E35CF86D2BDFE96A006E81A0 /* PickerBasic.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -292,6 +295,7 @@
 				E3C980D32BADCADA009B9840 /* ScrollViewBasic.swift in Sources */,
 				E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */,
 				E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */,
+				E35CF86E2BDFE96A006E81A0 /* PickerBasic.swift in Sources */,
 				E3C9811C2BC6EC9C009B9840 /* ConditionalBasic.swift in Sources */,
 				E3C980DF2BB1D389009B9840 /* StateBasic.swift in Sources */,
 				E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */,
