@@ -33,6 +33,7 @@
 		E35CF86C2BDE98BF006E81A0 /* ToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF86B2BDE98BF006E81A0 /* ToggleBasic.swift */; };
 		E35CF86E2BDFE96A006E81A0 /* PickerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF86D2BDFE96A006E81A0 /* PickerBasic.swift */; };
 		E35CF8702BDFEAF7006E81A0 /* ColorPickerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF86F2BDFEAF7006E81A0 /* ColorPickerBasic.swift */; };
+		E35CF8722BE285EF006E81A0 /* DatePickerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8712BE285EF006E81A0 /* DatePickerBasic.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
@@ -80,6 +81,7 @@
 		E35CF86B2BDE98BF006E81A0 /* ToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBasic.swift; sourceTree = "<group>"; };
 		E35CF86D2BDFE96A006E81A0 /* PickerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBasic.swift; sourceTree = "<group>"; };
 		E35CF86F2BDFEAF7006E81A0 /* ColorPickerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBasic.swift; sourceTree = "<group>"; };
+		E35CF8712BE285EF006E81A0 /* DatePickerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBasic.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				E35CF86B2BDE98BF006E81A0 /* ToggleBasic.swift */,
 				E35CF86D2BDFE96A006E81A0 /* PickerBasic.swift */,
 				E35CF86F2BDFEAF7006E81A0 /* ColorPickerBasic.swift */,
+				E35CF8712BE285EF006E81A0 /* DatePickerBasic.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -276,6 +279,7 @@
 				E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */,
 				E343FDE32BA734CE00AB1FA1 /* IconBasic.swift in Sources */,
 				E35CF8682BDA9E69006E81A0 /* ActionSheetBasic.swift in Sources */,
+				E35CF8722BE285EF006E81A0 /* DatePickerBasic.swift in Sources */,
 				E35CF8622BD16592006E81A0 /* ListBasic.swift in Sources */,
 				E337ACAC2BD0156F008D17EF /* SecondNavigationView.swift in Sources */,
 				E343FDB82B839FBB00AB1FA1 /* TextBasic.swift in Sources */,
