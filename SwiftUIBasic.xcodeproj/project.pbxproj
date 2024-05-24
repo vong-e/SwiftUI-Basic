@@ -39,6 +39,7 @@
 		E35CF8782BF10E45006E81A0 /* TabViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8772BF10E45006E81A0 /* TabViewBasic.swift */; };
 		E35CF87A2C0111EE006E81A0 /* DarkModeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8792C0111EE006E81A0 /* DarkModeBasic.swift */; };
 		E35CF87C2C011394006E81A0 /* OnAppearBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF87B2C011394006E81A0 /* OnAppearBasic.swift */; };
+		E35CF87E2C011526006E81A0 /* OnTabGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF87D2C011526006E81A0 /* OnTabGesture.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
@@ -92,6 +93,7 @@
 		E35CF8772BF10E45006E81A0 /* TabViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBasic.swift; sourceTree = "<group>"; };
 		E35CF8792C0111EE006E81A0 /* DarkModeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBasic.swift; sourceTree = "<group>"; };
 		E35CF87B2C011394006E81A0 /* OnAppearBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBasic.swift; sourceTree = "<group>"; };
+		E35CF87D2C011526006E81A0 /* OnTabGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnTabGesture.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				E35CF8772BF10E45006E81A0 /* TabViewBasic.swift */,
 				E35CF8792C0111EE006E81A0 /* DarkModeBasic.swift */,
 				E35CF87B2C011394006E81A0 /* OnAppearBasic.swift */,
+				E35CF87D2C011526006E81A0 /* OnTabGesture.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -312,6 +315,7 @@
 				E35CF8662BD9512D006E81A0 /* ContextMenuBasic.swift in Sources */,
 				E343FDBA2B8788D100AB1FA1 /* ShapeBasic.swift in Sources */,
 				E337ACA02BCC1E3B008D17EF /* TernaryBasic.swift in Sources */,
+				E35CF87E2C011526006E81A0 /* OnTabGesture.swift in Sources */,
 				E3C980DB2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift in Sources */,
 				E35CF86A2BDE94A7006E81A0 /* TextFieldBasic.swift in Sources */,
 				E337ACA22BCC1F6B008D17EF /* AnimationBasic.swift in Sources */,
