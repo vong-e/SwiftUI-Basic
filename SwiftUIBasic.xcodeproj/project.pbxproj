@@ -37,6 +37,7 @@
 		E35CF8742BEA760C006E81A0 /* StepperBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8732BEA760C006E81A0 /* StepperBasic.swift */; };
 		E35CF8762BF10C3C006E81A0 /* SliderBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8752BF10C3C006E81A0 /* SliderBasic.swift */; };
 		E35CF8782BF10E45006E81A0 /* TabViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8772BF10E45006E81A0 /* TabViewBasic.swift */; };
+		E35CF87A2C0111EE006E81A0 /* DarkModeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8792C0111EE006E81A0 /* DarkModeBasic.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
@@ -88,6 +89,7 @@
 		E35CF8732BEA760C006E81A0 /* StepperBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBasic.swift; sourceTree = "<group>"; };
 		E35CF8752BF10C3C006E81A0 /* SliderBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBasic.swift; sourceTree = "<group>"; };
 		E35CF8772BF10E45006E81A0 /* TabViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBasic.swift; sourceTree = "<group>"; };
+		E35CF8792C0111EE006E81A0 /* DarkModeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBasic.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
@@ -180,6 +182,7 @@
 				E35CF8732BEA760C006E81A0 /* StepperBasic.swift */,
 				E35CF8752BF10C3C006E81A0 /* SliderBasic.swift */,
 				E35CF8772BF10E45006E81A0 /* TabViewBasic.swift */,
+				E35CF8792C0111EE006E81A0 /* DarkModeBasic.swift */,
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
@@ -295,6 +298,7 @@
 				E337ACAC2BD0156F008D17EF /* SecondNavigationView.swift in Sources */,
 				E343FDB82B839FBB00AB1FA1 /* TextBasic.swift in Sources */,
 				E35CF8782BF10E45006E81A0 /* TabViewBasic.swift in Sources */,
+				E35CF87A2C0111EE006E81A0 /* DarkModeBasic.swift in Sources */,
 				E3C980DD2BB07AE6009B9840 /* ButtonBasic.swift in Sources */,
 				E3C980D72BADCF54009B9840 /* ForEachLoopBasic.swift in Sources */,
 				E35CF8642BD4090F006E81A0 /* AlertBasic.swift in Sources */,
