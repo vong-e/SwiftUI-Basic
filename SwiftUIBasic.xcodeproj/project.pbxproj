@@ -42,6 +42,9 @@
 		E35CF87E2C011526006E81A0 /* OnTabGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF87D2C011526006E81A0 /* OnTabGesture.swift */; };
 		E35CF8852C08C94E006E81A0 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8842C08C94E006E81A0 /* UserModel.swift */; };
 		E35CF8872C08C9D6006E81A0 /* UserModelBasicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8862C08C9D6006E81A0 /* UserModelBasicView.swift */; };
+		E35CF8892C34381B006E81A0 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8882C34381B006E81A0 /* FruitModel.swift */; };
+		E35CF88B2C343845006E81A0 /* FruitViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF88A2C343845006E81A0 /* FruitViewModel.swift */; };
+		E35CF88D2C344402006E81A0 /* FruitBasicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF88C2C344402006E81A0 /* FruitBasicView.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
@@ -98,6 +101,9 @@
 		E35CF87D2C011526006E81A0 /* OnTabGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnTabGesture.swift; sourceTree = "<group>"; };
 		E35CF8842C08C94E006E81A0 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 		E35CF8862C08C9D6006E81A0 /* UserModelBasicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModelBasicView.swift; sourceTree = "<group>"; };
+		E35CF8882C34381B006E81A0 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		E35CF88A2C343845006E81A0 /* FruitViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitViewModel.swift; sourceTree = "<group>"; };
+		E35CF88C2C344402006E81A0 /* FruitBasicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitBasicView.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
@@ -223,6 +229,7 @@
 			isa = PBXGroup;
 			children = (
 				E35CF8862C08C9D6006E81A0 /* UserModelBasicView.swift */,
+				E35CF88C2C344402006E81A0 /* FruitBasicView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -230,6 +237,7 @@
 		E35CF8822C08C92D006E81A0 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				E35CF88A2C343845006E81A0 /* FruitViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -238,6 +246,7 @@
 			isa = PBXGroup;
 			children = (
 				E35CF8842C08C94E006E81A0 /* UserModel.swift */,
+				E35CF8882C34381B006E81A0 /* FruitModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -334,6 +343,7 @@
 				E337ACA62BCD712E008D17EF /* SheetBasic.swift in Sources */,
 				E337ACA42BCC229F008D17EF /* TransitionBasic.swift in Sources */,
 				E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */,
+				E35CF88D2C344402006E81A0 /* FruitBasicView.swift in Sources */,
 				E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */,
 				E35CF87C2C011394006E81A0 /* OnAppearBasic.swift in Sources */,
 				E35CF8742BEA760C006E81A0 /* StepperBasic.swift in Sources */,
@@ -346,6 +356,7 @@
 				E343FDB82B839FBB00AB1FA1 /* TextBasic.swift in Sources */,
 				E35CF8782BF10E45006E81A0 /* TabViewBasic.swift in Sources */,
 				E35CF87A2C0111EE006E81A0 /* DarkModeBasic.swift in Sources */,
+				E35CF88B2C343845006E81A0 /* FruitViewModel.swift in Sources */,
 				E3C980DD2BB07AE6009B9840 /* ButtonBasic.swift in Sources */,
 				E3C980D72BADCF54009B9840 /* ForEachLoopBasic.swift in Sources */,
 				E35CF8642BD4090F006E81A0 /* AlertBasic.swift in Sources */,
@@ -367,6 +378,7 @@
 				E343FDE72BA7377000AB1FA1 /* FrameBasic.swift in Sources */,
 				E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */,
 				E35CF86E2BDFE96A006E81A0 /* PickerBasic.swift in Sources */,
+				E35CF8892C34381B006E81A0 /* FruitModel.swift in Sources */,
 				E3C9811C2BC6EC9C009B9840 /* ConditionalBasic.swift in Sources */,
 				E3C980DF2BB1D389009B9840 /* StateBasic.swift in Sources */,
 				E35CF8702BDFEAF7006E81A0 /* ColorPickerBasic.swift in Sources */,
