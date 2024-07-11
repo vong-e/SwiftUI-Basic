@@ -45,6 +45,11 @@
 		E35CF8892C34381B006E81A0 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8882C34381B006E81A0 /* FruitModel.swift */; };
 		E35CF88B2C343845006E81A0 /* FruitViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF88A2C343845006E81A0 /* FruitViewModel.swift */; };
 		E35CF88D2C344402006E81A0 /* FruitBasicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF88C2C344402006E81A0 /* FruitBasicView.swift */; };
+		E35CF88F2C40203B006E81A0 /* IOSDeviceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF88E2C40203B006E81A0 /* IOSDeviceModel.swift */; };
+		E35CF8912C402059006E81A0 /* IOSDeviceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8902C402059006E81A0 /* IOSDeviceViewModel.swift */; };
+		E35CF8932C4020D6006E81A0 /* IOSDeviceView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8922C4020D6006E81A0 /* IOSDeviceView1.swift */; };
+		E35CF8952C4021CB006E81A0 /* IOSDeviceView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8942C4021CB006E81A0 /* IOSDeviceView2.swift */; };
+		E35CF8972C4022D5006E81A0 /* IOSDeviceView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35CF8962C4022D5006E81A0 /* IOSDeviceView3.swift */; };
 		E3C980CB2BA9D915009B9840 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */; };
 		E3C980CD2BAC8301009B9840 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CC2BAC8301009B9840 /* StackBasic.swift */; };
 		E3C980CF2BADC63B009B9840 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */; };
@@ -104,6 +109,11 @@
 		E35CF8882C34381B006E81A0 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		E35CF88A2C343845006E81A0 /* FruitViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitViewModel.swift; sourceTree = "<group>"; };
 		E35CF88C2C344402006E81A0 /* FruitBasicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitBasicView.swift; sourceTree = "<group>"; };
+		E35CF88E2C40203B006E81A0 /* IOSDeviceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceModel.swift; sourceTree = "<group>"; };
+		E35CF8902C402059006E81A0 /* IOSDeviceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceViewModel.swift; sourceTree = "<group>"; };
+		E35CF8922C4020D6006E81A0 /* IOSDeviceView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceView1.swift; sourceTree = "<group>"; };
+		E35CF8942C4021CB006E81A0 /* IOSDeviceView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceView2.swift; sourceTree = "<group>"; };
+		E35CF8962C4022D5006E81A0 /* IOSDeviceView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceView3.swift; sourceTree = "<group>"; };
 		E3C980CA2BA9D915009B9840 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 		E3C980CC2BAC8301009B9840 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		E3C980CE2BADC63B009B9840 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
@@ -230,6 +240,9 @@
 			children = (
 				E35CF8862C08C9D6006E81A0 /* UserModelBasicView.swift */,
 				E35CF88C2C344402006E81A0 /* FruitBasicView.swift */,
+				E35CF8922C4020D6006E81A0 /* IOSDeviceView1.swift */,
+				E35CF8942C4021CB006E81A0 /* IOSDeviceView2.swift */,
+				E35CF8962C4022D5006E81A0 /* IOSDeviceView3.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -238,6 +251,7 @@
 			isa = PBXGroup;
 			children = (
 				E35CF88A2C343845006E81A0 /* FruitViewModel.swift */,
+				E35CF8902C402059006E81A0 /* IOSDeviceViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -247,6 +261,7 @@
 			children = (
 				E35CF8842C08C94E006E81A0 /* UserModel.swift */,
 				E35CF8882C34381B006E81A0 /* FruitModel.swift */,
+				E35CF88E2C40203B006E81A0 /* IOSDeviceModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -342,6 +357,7 @@
 				E343FDE12BA732F700AB1FA1 /* GradientBasic.swift in Sources */,
 				E337ACA62BCD712E008D17EF /* SheetBasic.swift in Sources */,
 				E337ACA42BCC229F008D17EF /* TransitionBasic.swift in Sources */,
+				E35CF8972C4022D5006E81A0 /* IOSDeviceView3.swift in Sources */,
 				E3C980D92BB07608009B9840 /* LazyGridBasic.swift in Sources */,
 				E35CF88D2C344402006E81A0 /* FruitBasicView.swift in Sources */,
 				E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */,
@@ -365,10 +381,14 @@
 				E337ACA82BCD715D008D17EF /* SheetBasic2.swift in Sources */,
 				E35CF8662BD9512D006E81A0 /* ContextMenuBasic.swift in Sources */,
 				E343FDBA2B8788D100AB1FA1 /* ShapeBasic.swift in Sources */,
+				E35CF88F2C40203B006E81A0 /* IOSDeviceModel.swift in Sources */,
 				E337ACA02BCC1E3B008D17EF /* TernaryBasic.swift in Sources */,
+				E35CF8912C402059006E81A0 /* IOSDeviceViewModel.swift in Sources */,
+				E35CF8932C4020D6006E81A0 /* IOSDeviceView1.swift in Sources */,
 				E35CF87E2C011526006E81A0 /* OnTabGesture.swift in Sources */,
 				E3C980DB2BB079EB009B9840 /* IgnoreSafeAreaBasic.swift in Sources */,
 				E35CF86A2BDE94A7006E81A0 /* TextFieldBasic.swift in Sources */,
+				E35CF8952C4021CB006E81A0 /* IOSDeviceView2.swift in Sources */,
 				E337ACA22BCC1F6B008D17EF /* AnimationBasic.swift in Sources */,
 				E343FDBC2B878F6500AB1FA1 /* ColorBasic.swift in Sources */,
 				E343FDAA2B839E4400AB1FA1 /* SwiftUIBasicApp.swift in Sources */,
