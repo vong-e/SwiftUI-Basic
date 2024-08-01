@@ -67,6 +67,7 @@
 		E3C980E82BB980ED009B9840 /* BindingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980E72BB980ED009B9840 /* BindingBasic.swift */; };
 		E3C980EA2BB980FB009B9840 /* BindingChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C980E92BB980FB009B9840 /* BindingChild.swift */; };
 		E3C9811C2BC6EC9C009B9840 /* ConditionalBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C9811B2BC6EC9C009B9840 /* ConditionalBasic.swift */; };
+		E3EEB27F2C5BD5EC0063EC53 /* AppStorageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EEB27E2C5BD5EC0063EC53 /* AppStorageBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -131,6 +132,7 @@
 		E3C980E72BB980ED009B9840 /* BindingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBasic.swift; sourceTree = "<group>"; };
 		E3C980E92BB980FB009B9840 /* BindingChild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingChild.swift; sourceTree = "<group>"; };
 		E3C9811B2BC6EC9C009B9840 /* ConditionalBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBasic.swift; sourceTree = "<group>"; };
+		E3EEB27E2C5BD5EC0063EC53 /* AppStorageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -213,6 +215,7 @@
 				E3C980E42BB1D604009B9840 /* Component */,
 				E343FDAD2B839E4500AB1FA1 /* Assets.xcassets */,
 				E343FDAF2B839E4500AB1FA1 /* Preview Content */,
+				E3EEB27E2C5BD5EC0063EC53 /* AppStorageBasic.swift */,
 			);
 			path = SwiftUIBasic;
 			sourceTree = "<group>";
@@ -351,6 +354,7 @@
 				E343FDE52BA7363900AB1FA1 /* ImageBasic.swift in Sources */,
 				E337ACAA2BD01560008D17EF /* NavigationBasic.swift in Sources */,
 				E3C980E82BB980ED009B9840 /* BindingBasic.swift in Sources */,
+				E3EEB27F2C5BD5EC0063EC53 /* AppStorageBasic.swift in Sources */,
 				E35CF8872C08C9D6006E81A0 /* UserModelBasicView.swift in Sources */,
 				E3C980E32BB1D600009B9840 /* ExtractSubViewBasic.swift in Sources */,
 				E3C980E62BB1D617009B9840 /* ItemBasic.swift in Sources */,
